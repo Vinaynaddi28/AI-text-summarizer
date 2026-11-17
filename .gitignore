@@ -1,0 +1,12 @@
+node_modules/
+dist/
+.venv/
+.venv-backup*/
+venv/
+__pycache__/
+*.py[cod]
+backend/data/*.sqlite3*
+backend/data/*.db*
+.env
+.env.*
+!.env.example
